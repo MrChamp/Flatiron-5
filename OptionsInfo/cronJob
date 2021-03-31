@@ -1,0 +1,7 @@
+# Cron job for running options data mining program
+# every week night after hours beginning at 7:00 MST
+
+
+0 19 * * 1,2,3,4,5 /home/steve/documents/flatIron/fIProject/OptionsInfo/convertScript.sh
+
+
