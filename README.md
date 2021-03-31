@@ -44,6 +44,6 @@ These files were intended to be run on a linux system; the host system is Ubuntu
 </p>
 
 ## Writeup
-https://steve699777341.wordpress.com/2021/01/31/flatiron-module-4-project-writeup/
+https://
 ## Authors
 - MrChamp
