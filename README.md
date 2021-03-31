@@ -19,7 +19,7 @@ There is also some cursory analysis of the data, and an attempt at an oversimpli
          - The Options historic data collection program</p></ul>
  <ul><b>- Stocks</b></br>
       <p>- The files for adding the .csv stock data into the database</p></ul>
- <ul><b>- resourcesAndTutorials<></br>
+ <ul><b>- resourcesAndTutorials</b></br>
       <p>- Various tutorials, templates, and resources used for building some files</p></ul>
  <ul><b>- sa</b></br>
       <p>- The sentiment analysis folder</br>
