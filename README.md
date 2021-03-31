@@ -7,21 +7,21 @@ Project 5 for Flatiron Bootcamp DS Program
 There is also some cursory analysis of the data, and an attempt at an oversimplified GAN model</p>
 
 ## Contents
- <ul>- DF </br>
+ <ul><b>- DF </b></br>
       <p>- The files for generating a dataFrame from the database</p></ul>
- <ul>- GAN </br>
+ <ul><b>- GAN </b></br>
       <p>- The files for the GAN model</p></ul>
- <ul>- MySQL </br>
+ <ul><b>- MySQL </b></br>
       <p>- ER diagram as well as MySQL-workbench backup files</br>
          - A program for adding feature columns to the database</p></ul>
- <ul>- OptionsInfo </br>
+ <ul><b>- OptionsInfo </b></br>
       <p>- The files for creating a crontab job to run the options collection program</br>
          - The Options historic data collection program</p></ul>
- <ul>- Stocks</br>
+ <ul><b>- Stocks</b></br>
       <p>- The files for adding the .csv stock data into the database</p></ul>
- <ul>- resourcesAndTutorials</br>
+ <ul><b>- resourcesAndTutorials<></br>
       <p>- Various tutorials, templates, and resources used for building some files</p></ul>
- <ul>- sa</br>
+ <ul><b>- sa</b></br>
       <p>- The sentiment analysis folder</br>
          - Contains the framework for future sentiment analysis programs and files</p></ul>
 
