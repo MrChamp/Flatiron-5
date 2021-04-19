@@ -21,6 +21,11 @@ There is also some cursory analysis of the data</p>
       <p>- A csv file containing a add-on column for the dataset</p></ul>
  <ul><b>- references.txt</b></br>
       <p>- A text file containing various reference material used throughout this project</p></ul>
+ 
+ <ul><b>- non_tech_pres.mp4</b></br>
+      <p>- This is a video file containing a non-technical presentation of the project</p></ul>
+ <ul><b>- ProjectPpt.pdf</b></br>
+      <p>- This is the pdf file of slides used for the non-technical presentation</p></ul>
 
 
 
