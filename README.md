@@ -11,6 +11,8 @@ There is also some cursory analysis of the data</p>
       <p>- The main program (data science workflow)</p></ul>
  <ul><b>- capstoneFunctions.py </b></br>
       <p>- Supplementary python file to main.ipynb containing relevant functions</p></ul>
+ <ul><b>- optionDBGen.pdf</b></br>
+      <p>- A pdf file showing the primary code used for the data collection and storage</p></ul>
  <ul><b>-  Figures</b></br>
       <p>- Directory containing figures relevant to project</br></p></ul>
  <ul><b>-  options_csv.tar.gz</b></br>
