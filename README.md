@@ -4,7 +4,7 @@ Project 5 for Flatiron Bootcamp DS Program
 # Historic Stock Options Database
 <p>This project is focused on engineering a database for financial data (specifically historical stock and options data).
 
-There is also some cursory analysis of the data, and an attempt at an oversimplified GAN model</p>
+There is also some cursory analysis of the data</p>
 
 ## Contents
  <ul><b>- DF </b></br>
