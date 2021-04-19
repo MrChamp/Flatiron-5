@@ -1,0 +1,13 @@
+http://www.cns.nyu.edu/pub/lcv/schwartz01-reprint.pdf
+
+https://towardsdatascience.com/gans-and-missing-data-imputation-815a0cbc4ece
+
+https://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization
+
+https://arxiv.org/pdf/1708.06724.pdf
+
+https://github.com/jsyoon0823/GAIN
+
+https://towardsdatascience.com/implied-volatility-in-r-assess-options-risk-correctly-70fe36843474
+
+https://towardsdatascience.com/unsupervised-learning-for-anomaly-detection-in-stock-options-pricing-e599728958c7
