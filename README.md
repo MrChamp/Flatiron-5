@@ -7,23 +7,19 @@ Project 5 for Flatiron Bootcamp DS Program
 There is also some cursory analysis of the data</p>
 
 ## Contents
- <ul><b>- DF </b></br>
-      <p>- The files for generating a dataFrame from the database</p></ul>
- <ul><b>- GAN </b></br>
-      <p>- The files for the GAN model</p></ul>
- <ul><b>- MySQL </b></br>
-      <p>- ER diagram as well as MySQL-workbench backup files</br>
-         - A program for adding feature columns to the database</p></ul>
- <ul><b>- OptionsInfo </b></br>
-      <p>- The files for creating a crontab job to run the options collection program</br>
-         - The Options historic data collection program</p></ul>
- <ul><b>- Stocks</b></br>
-      <p>- The files for adding the .csv stock data into the database</p></ul>
- <ul><b>- resourcesAndTutorials</b></br>
-      <p>- Various tutorials, templates, and resources used for building some files</p></ul>
- <ul><b>- sa</b></br>
-      <p>- The sentiment analysis folder</br>
-         - Contains the framework for future sentiment analysis programs and files</p></ul>
+ <ul><b>- main.ipynb </b></br>
+      <p>- The main program (data science workflow)</p></ul>
+ <ul><b>- capstoneFunctions.py </b></br>
+      <p>- Supplementary python file to main.ipynb containing relevant functions</p></ul>
+ <ul><b>-  Figures</b></br>
+      <p>- Directory containing figures relevant to project</br></p></ul>
+ <ul><b>-  options_csv.tar.gz</b></br>
+      <p>- Compressed csv file containing the primary dataset used in the project</br></p></ul>
+ <ul><b>- close_col.csv</b></br>
+      <p>- A csv file containing a add-on column for the dataset</p></ul>
+ <ul><b>- references.txt</b></br>
+      <p>- A text file containing various reference material used throughout this project</p></ul>
+
 
 
 ## Getting Started
