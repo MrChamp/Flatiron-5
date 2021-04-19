@@ -25,9 +25,8 @@ There is also some cursory analysis of the data</p>
 ## Getting Started
 <p>The files are in the .ipynb format and were made in Jupyter Lab using the dark theme; so color schemes may be difficult to see on lighter themed environments.</br></br>
 
-The "optionDBGen.ipynb" file is the focus of the project - it was written with the intention of collecting, cleaning and organizing historic options data to be stored in a database for future analysis. The accompanying cronJob file should be run in a linux environment as a cronTab input in order to automate the collection process.</br></br>
+The "main.ipynb" file is the focus of the project - it is a data science notebook exploring the previously collected options data set.</br></br>
 
-The "simpleTSGAN.ipynb" file contains the rudimentary GAN model that will be improved in the future.
 </p>
 
 ## Prerequisites
